@@ -23,10 +23,16 @@ On a mission to help teams unlock their full creative potential with smart analy
 
 - **[Cavamalusa](https://cavamalusa.com)**  
   The umbrella platform for all my digital tools and research projects.
+
 - **[Gausspeak](https://gausspeak.com)**  
   Web app for team creativity analysis and strategic recommendations.
+
 - **[Slicr.tech](https://slicr.tech)**  
   Backend engine for analytics and AI-powered strategic insights.
+
+- **[GaussGuild](https://gaussguild.com)**  
+  Communication hub for structured collaboration, documentation, and follow-ups.
+
 
 ---
 
