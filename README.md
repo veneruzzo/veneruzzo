@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Florijan Veneruzzo
 
 **Founder @ Cavamalusa**  
-Digital tools for creativity, strategy, and team analytics  
-Creator of [Gausspeak](https://gausspeak.com) & [Slicr.tech](https://slicr.tech)
+Digital tools for creativity, strategy, team leadership, and analytics  
+Creator of [Gausspeak](https://gausspeak.com), [Slicr.tech](https://slicr.tech) & [GaussGuild](https://gaussguild.com)
 
 ---
 
