@@ -39,7 +39,7 @@ On a mission to help teams unlock their full creative potential with smart analy
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/…](https://www.linkedin.com/in/florijan-veneruzzo-345b792b1/)  
-- **Email:** cavamalusa.app@gmail.com
+- **Email:** florijan@cavamalusa.com
 
 ---
 
