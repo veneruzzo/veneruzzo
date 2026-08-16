@@ -1,46 +1,35 @@
-# 👋 Hi, I'm Florijan Veneruzzo
+# Florijan Veneruzzo
 
-**Founder @ Cavamalusa**  
-Digital tools for creativity, strategy, team leadership, and analytics  
-Creator of [Gausspeak](https://gausspeak.com), [Slicr.tech](https://slicr.tech) & [GaussGuild](https://gaussguild.com)
+Researcher, builder, and creator of **Gausspeak** and **Cavamalusa**.
 
----
+I work at the intersection of creativity research, organizational dynamics, decision-making, analytical modeling, and software.
 
-## About
+## Current work
 
-Economist, researcher, and builder.  
-Focusing on creative decision-making, digital platforms, and the art of turning strategy into action.  
-On a mission to help teams unlock their full creative potential with smart analytics and simple, beautiful apps.
+### Gausspeak
+A research-driven platform for structured assessment, longitudinal analysis, visualization, and AI-assisted interpretation of team and organizational dynamics.
 
-- 📍 Pula, Croatia
-- 💼 Sales Chief @ Port Authority of Pula
-- 📚 Author of books on creativity & strategy
-- 🎓 MSc in Economics & Management
+https://gausspeak.com
 
----
+### Cavamalusa
+Independent research and product studio behind Gausspeak and related experiments.
 
-## Projects
+https://cavamalusa.com
 
-- **[Cavamalusa](https://cavamalusa.com)**  
-  The umbrella platform for all my digital tools and research projects.
+## Focus
 
-- **[Gausspeak](https://gausspeak.com)**  
-  Web app for team creativity analysis and strategic recommendations.
-
-- **[Slicr.tech](https://slicr.tech)**  
-  Backend engine for analytics and AI-powered strategic insights.
-
-- **[GaussGuild](https://gaussguild.com)**  
-  Communication hub for structured collaboration, documentation, and follow-ups.
-
-
----
+- creativity and organizational dynamics
+- decision-making under complexity
+- longitudinal measurement
+- analytical and computational modeling
+- AI-assisted interpretation
+- research software and product design
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/…](https://www.linkedin.com/in/florijan-veneruzzo-345b792b1/)  
-- **Email:** florijan@cavamalusa.com
+- LinkedIn: https://www.linkedin.com/in/florijan-veneruzzo-345b792b1/
+- Email: florijan@cavamalusa.com
 
----
+_Pula, Croatia_
 
-_In radice virtus!_
+_In radice virtus._
